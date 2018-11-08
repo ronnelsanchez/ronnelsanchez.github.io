@@ -1,0 +1,46 @@
+.contact {
+  section {
+    margin-bottom: 4rem;
+    p {
+      line-height: 2.5rem;
+      margin-bottom: 2rem;
+    }
+    h3 {
+      margin: 2rem 0;
+    }
+  }
+  .contact-head {
+    text-align: left;
+    margin-bottom: 4rem;
+  }
+}
+
+
+.btn-mail {
+  padding: 1rem 1rem !important;
+  font-size: 14px !important;
+  letter-spacing: .15rem;
+
+  &:before {
+    content: '\f0e0';
+    font-family: FontAwesome;
+    font-size: 1rem;
+    margin-right: 1rem;
+  }
+}
+
+
+
+@include media-breakpoint-up(md) {
+  .contact-head {
+    padding-top: 4rem;
+  }
+}
+@include media-breakpoint-down(md) {
+  .contact-head {
+    padding-top: 2rem;
+    h1{
+      font-size: 2rem;
+    }
+  }
+}
