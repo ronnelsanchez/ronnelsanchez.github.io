@@ -15,7 +15,7 @@
       </b-row>
       <b-row>
         <b-col>
-          <img src="../../assets/projects/timelog/timelog.gif" alt="">
+          <img src="../../assets/projects/timelog/timelog.gif" alt="" class="clickable" v-viewer>
         </b-col>
       </b-row>
     </section>
@@ -34,15 +34,15 @@
       <b-row>
         <b-col md="4">
           <span>Morning</span>
-          <img src="../../assets/projects/timelog/morning.png" alt="">
+          <img src="../../assets/projects/timelog/morning.png" alt="" class="clickable" v-viewer>
         </b-col>
         <b-col md="4">
           <span>Afternoon</span>
-          <img src="../../assets/projects/timelog/afternoon.png" alt="">
+          <img src="../../assets/projects/timelog/afternoon.png" alt="" class="clickable" v-viewer>
         </b-col>
         <b-col md="4">
           <span>Evening</span>
-          <img src="../../assets/projects/timelog/evening.png" alt="">
+          <img src="../../assets/projects/timelog/evening.png" alt="" class="clickable" v-viewer>
         </b-col>
       </b-row>
     </section>

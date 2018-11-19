@@ -8,6 +8,10 @@ main {
   padding-top: 100px;
 }
 
+.clickable {
+  cursor: pointer;
+}
+
 .container_welcome {
   padding: 2rem 0 4rem;
   height: calc(100vh - 60vh);

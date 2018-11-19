@@ -15,7 +15,7 @@
       </b-row>
       <b-row>
         <b-col>
-          <img src="../../assets/projects/reformat/diy-tool-d.gif" alt="">
+          <img src="../../assets/projects/reformat/diy-tool-d.gif" alt="" class="clickable" v-viewer>
         </b-col>
       </b-row>
     </section>
@@ -82,33 +82,33 @@
           <h3>Visual Design</h3>
           <b-row>
             <b-col>
-              <img src="../../assets/projects/reformat/diy-d.png" alt="" class="mb">
+              <img src="../../assets/projects/reformat/diy-d.png" alt="" class="mb clickable" v-viewer>
             </b-col>
           </b-row>
           <b-row>
             <b-col md="4">
-              <img src="../../assets/projects/reformat/diy-auto.png" alt="">
+              <img src="../../assets/projects/reformat/diy-auto.png" alt="" class="clickable" v-viewer>
             </b-col>
             <b-col md="4">
-              <img src="../../assets/projects/reformat/diy-backup.png" alt="">
+              <img src="../../assets/projects/reformat/diy-backup.png" alt="" class="clickable" v-viewer>
             </b-col>
             <b-col md="4">
-              <img src="../../assets/projects/reformat/diy-computer-name.png" alt="">
+              <img src="../../assets/projects/reformat/diy-computer-name.png" alt="" class="clickable" v-viewer>
             </b-col>
             <b-col md="4">
-              <img src="../../assets/projects/reformat/diy-lan.png" alt="">
+              <img src="../../assets/projects/reformat/diy-lan.png" alt="" class="clickable" v-viewer>
             </b-col>
             <b-col md="4">
-              <img src="../../assets/projects/reformat/diy-power.png" alt="">
+              <img src="../../assets/projects/reformat/diy-power.png" alt="" class="clickable" v-viewer>
             </b-col>
             <b-col md="4">
-              <img src="../../assets/projects/reformat/diy-restart.png" alt="">
+              <img src="../../assets/projects/reformat/diy-restart.png" alt="" class="clickable" v-viewer>
             </b-col>
             <b-col md="6">
-              <img src="../../assets/projects/reformat/diy-system.png" alt="">
+              <img src="../../assets/projects/reformat/diy-system.png" alt="" class="clickable" v-viewer>
             </b-col>
             <b-col md="6">
-              <img src="../../assets/projects/reformat/diy-done.png" alt="">
+              <img src="../../assets/projects/reformat/diy-done.png" alt="" class="clickable" v-viewer>
             </b-col>
           </b-row>
         </b-col>

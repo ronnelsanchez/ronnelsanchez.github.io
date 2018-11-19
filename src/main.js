@@ -5,7 +5,10 @@ import App from './App'
 import router from './router'
 import BootstrapVue from 'bootstrap-vue'
 import 'font-awesome/css/font-awesome.min.css'
+import 'viewerjs/dist/viewer.css'
+import Viewer from 'v-viewer'
 
+Vue.use(Viewer)
 Vue.use(BootstrapVue)
 
 Vue.config.productionTip = false

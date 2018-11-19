@@ -8,6 +8,7 @@ import Contact from '@/views/Contact'
 import Nals from '@/views/Works/Nals'
 import Timelog from '@/views/Works/Timelog'
 import Reformat from '@/views/Works/Reformat'
+import Backoffice from '@/views/Works/Backoffice'
 
 Vue.use(Router)
 
@@ -34,6 +35,11 @@ export default new Router({
           path: '/contact',
           name: 'Contact',
           component: Contact
+        },
+        {
+          path: '/Backoffice',
+          name: 'Backoffice',
+          component: Backoffice
         },
         {
           path: '/nals',

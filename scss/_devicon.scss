@@ -212,6 +212,19 @@ $devicon-font: "devicon" !default;
   }
 }
 
+.devicon-vuejs-plain-wordmark:before {
+  content: "\e930";
+}
+
+.devicon-vuejs-plain-wordmark {
+  &:hover {
+    &:before {
+      content: "\e930";
+      	color: #41B883;
+    }
+  }
+}
+
 .devicon-angularjs-plain-wordmark:before {
   content: "\e61c";
 }

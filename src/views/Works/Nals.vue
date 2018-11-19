@@ -15,7 +15,7 @@
       </b-row>
       <b-row>
         <b-col>
-          <img src="../../assets/projects/nals/banner.png" alt="">
+          <img src="../../assets/projects/nals/banner.png" alt="" class="clickable" v-viewer>
         </b-col>
       </b-row>
     </section>
@@ -45,9 +45,9 @@
       <b-row>
         <b-col>
           <h3>Features</h3>
-          <img src="../../assets/projects/nals/nals-1.jpg" alt="">
-          <img src="../../assets/projects/nals/nals-2.jpg" alt="">
-          <img src="../../assets/projects/nals/nals-3.jpg" alt="">
+          <img src="../../assets/projects/nals/nals-1.jpg" alt="" class="clickable" v-viewer>
+          <img src="../../assets/projects/nals/nals-2.jpg" alt="" class="clickable" v-viewer>
+          <img src="../../assets/projects/nals/nals-3.jpg" alt="" class="clickable" v-viewer>
         </b-col>
       </b-row>
     </section>
@@ -56,10 +56,10 @@
       <b-row>
         <b-col>
           <h3>Visual Design</h3>
-          <img src="../../assets/projects/nals/caren-dribbble.gif" alt="">
-          <img src="../../assets/projects/nals/error_message.gif" alt="">
-          <img src="../../assets/projects/nals/nals-app-icon.jpg" alt="">
-          <img src="../../assets/projects/nals/nals-screens.jpg" alt="">
+          <img src="../../assets/projects/nals/caren-dribbble.gif" alt="" class="clickable" v-viewer>
+          <img src="../../assets/projects/nals/error_message.gif" alt="" class="clickable" v-viewer>
+          <img src="../../assets/projects/nals/nals-app-icon.jpg" alt="" class="clickable" v-viewer>
+          <img src="../../assets/projects/nals/nals-screens.jpg" alt="" class="clickable" v-viewer>
         </b-col>
       </b-row>
     </section>

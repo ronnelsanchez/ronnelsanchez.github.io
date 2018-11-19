@@ -5,6 +5,18 @@
   <Welcome/>
 
   <b-row>
+    <router-link to="/backoffice" class="col-12 col-md-6 portfolio-item" tag="div">
+      <img src="../assets/projects/backoffice/banner.png" alt="">
+      <h4>Ducatus crypto platform</h4>
+      <p>Crypto platform with trading, wallet and network</p>
+      <ul class="tags">
+        <li>UI/UX</li>
+        <li>Product Design</li>
+        <li>Web Design</li>
+        <li>Information Architecture</li>
+        <li>Front-End</li>
+      </ul>
+    </router-link>
 
     <router-link to="/nals" class="col-12 col-md-6 portfolio-item" tag="div">
       <img src="../assets/projects/nals/nals-thumb.png" alt="">
